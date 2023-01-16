@@ -5,7 +5,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/agust%C3%ADn-romero-33919b24b/" target="_blank" rel="norefferer">
+<a href="https://www.linkedin.com/in/agust%C3%ADn-romero-33919b24b/" target="blank" rel="norefferer">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
 </a>
 </p>
