@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Agustín Romero</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-<p>I'm a Web Developer who loves working with different technologies and learning new skills as a team.</p>
+<p>I'm a Web Developer who loves working with different technologies, learning new skills and solving different problems as a team.</p>
 <p>Here are all my achievements and the way I did to be a programmer 💻</p>
 
 <h4 align="left">Connect with me:</h4>
