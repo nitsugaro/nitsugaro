@@ -42,7 +42,8 @@
 
 ```
 📌 Henry Bootcamp Individual Project
-I worked as a full stack developer integrating a web application with the name 'PokeAPI'. With its three essential elements: frontend, backend and database.
+I worked as a full stack developer integrating a web application with the name 'PokeAPI'. 
+With its three essential elements: frontend, backend and database.
 There you will be able to see pokemons from the animated series 'Pokemon', see details of each one, and create your own pokemons.
 
 Tech Utils:
