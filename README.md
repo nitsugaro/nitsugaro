@@ -7,7 +7,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/agust%C3%ADn-romero-33919b24b/" target="blank" rel="norefferer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my-linkedin" height="30" width="40" />
 </a>
 </p>
 
@@ -33,9 +33,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feli-dev&layout=compact)](#)
 
 
-## This is my work ❤🗂
+## This is my work 🗂
 ____________________
-## Videogames SPA
+## PokeAPI
 
 ~~~
 📌 Henry Bootcamp Individual Project 
@@ -45,10 +45,11 @@ Design and develop a web page about videogames including:
 ◉ Filtering, Sorting and Pagination
 ◉ Option to create a videogame
 Tech Utils: 
+◉ HTML
+◉ CSS
 ◉ Javascript
 ◉ ReactJS
 ◉ Redux
-◉ Plain CSS 
 ◉ NodeJS
 ◉ Express
 ◉ PostgreSQL
@@ -117,10 +118,11 @@ ___________________________________________
 
 Do you want to work together?
 
-**Email:** agusromero0815@gmail.com
+**Email ✉:** agusromero0815@gmail.com
+**Wpp 📱:** +54 9 11 58274697
 
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/agust%C3%ADn-romero-33919b24b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my-linkedin2" height="30" width="40" />
 </a>
 </p>
