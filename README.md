@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Agustín Romero</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-
+<p>I'm a Web Developer who loves work with a </p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -32,10 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feli-dev&layout=compact)](#)
 
 
-## Checkout my work
-👇
-👇
-👇   
+## This is my work ❤🗂
 ____________________
 ## Videogames SPA
 
@@ -119,7 +116,7 @@ ___________________________________________
 
 Do you want to work together?
 
-**Email:** felipetau0@gmail.com
+**Email:** agusromero0815@gmail.com
 
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
