@@ -42,7 +42,7 @@
 
 ```
 📌 Henry Bootcamp Individual Project
-I worked as a full stack developer integrating a web application with the name 'PokeAPI'. 
+I worked as a full stack developer integrating a web application with the name 'PokeAPI'.
 With its three essential elements: frontend, backend and database.
 There you will be able to see pokemons from the animated series 'Pokemon', see details of each one, and create your own pokemons.
 
@@ -53,17 +53,22 @@ Database: PostgreSQL
 ```
 
 <p align="center">
-<img align="center" width="400px" src="./PI-images/landing.jpg"/>
-<img align="center" width="400px" src="./PI-images/home.jpg" />
+<img align="center" width="400px" src="./PI-images/landing.jpg" alt='landing poke-api'/>
+<img align="center" width="400px" src="./PI-images/home.jpg" alt='home poke-api' />
 </p>
 <p align="center">
-<img align="center" width="400px" src="./PI-images/detail.jpg" />
-<img align="center" width="400px" src="./PI-images/create.jpg" />
+<img align="center" width="400px" src="./PI-images/detail.jpg" alt='detail poke-api' />
+<img align="center" width="400px" src="./PI-images/create.jpg" alt='create poke-api' />
 </p>
 <p align="center">
-<img align="center" width="400px" src="./PI-images/delete-update.jpg" />
-<img align="center" width="400px" src="./PI-images/delete.jpg" />
+<img align="center" width="400px" src="./PI-images/delete-update.jpg" alt='delete-update poke-api' />
+<img align="center" width="400px" src="./PI-images/delete.jpg"  alt='delete poke-api' />
 </p>
+<br>
+
+[**See Deploy**](https://pokeapi-beryl.vercel.app/)
+
+[**See Repository**](https://github.com/Nitsuga159/PI-Pokemon)
 
 ---
 
@@ -100,20 +105,27 @@ Additional Libraries:
 ```
 
 <p align="center">
-<img align="center" width="400px" src='./PF-images/landing.jpg' />
-<img align="center" width="400px" src='./PF-images/home.jpg' />
+<img align="center" width="400px" src='./PF-images/landing.jpg' alt='landing campy' />
+<img align="center" width="400px" src='./PF-images/home.jpg' alt='home campy' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-images/campings.jpg' />
-<img align="center" width="400px" src='./PF-images/detail.jpg' />
+<img align="center" width="400px" src='./PF-images/campings.jpg'  alt='campings campy' />
+<img align="center" width="400px" src='./PF-images/detail.jpg'  alt='detail campy' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-images/map.jpg' />
-<img align="center" width="400px" src='./PF-images/blog.jpg' />
+<img align="center" width="400px" src='./PF-images/map.jpg' alt='map campy' />
+<img align="center" width="400px" src='./PF-images/blog.jpg' alt='blog campy' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-images/dashboard.jpg' alt='dashboard camping' />
+<img align="center" width="400px" src='./PF-images/dashboard.jpg' alt='dashboard campy' />
 </p>
+<br>
+
+[**See Deploy**](https://campy-frontend.vercel.app/)
+
+[**See Repository Backend**](https://github.com/javierleandromontenegro/Campy-backend)
+
+[**See Repository Frontend**](https://github.com/ACRUNO/Campy-frontend)
 
 ---
 
@@ -121,9 +133,9 @@ Additional Libraries:
 
 Do you want to work together?
 
-**Email ✉:** agusromero0815@gmail.com
+**Email:** agusromero0815@gmail.com
 
-**Wpp 📱:** +54 9 11 58274697
+**Wpp:** +54 9 11 58274697
 
 **Portfolio:** https://portfolio-159.vercel.app/
 
