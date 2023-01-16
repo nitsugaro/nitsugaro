@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
 <p>I'm a Web Developer who loves working with different technologies and learning new skills as a team.</p>
-<p>Here are all my achievements and the way I did to be a good programmer 💻</p>
+<p>Here are all my achievements and the way I did to be a programmer 💻</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
