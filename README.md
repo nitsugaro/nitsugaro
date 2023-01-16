@@ -38,7 +38,7 @@
 
 ---
 
-## PokeAPI
+## **PokeAPI**
 
 ```
 📌 Henry Bootcamp Individual Project
@@ -66,7 +66,7 @@ Database: PostgreSQL
 
 ---
 
-## Campy
+## **Campy**
 
 ```
 📌 Final group project of Bootcamp Henry.
