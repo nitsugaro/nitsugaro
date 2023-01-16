@@ -100,19 +100,19 @@ Additional Libraries:
 ```
 
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/landing.jpg' />
-<img align="center" width="400px" src='./PF-Images/home.jpg' />
+<img align="center" width="400px" src='./PF-images/landing.jpg' />
+<img align="center" width="400px" src='./PF-images/home.jpg' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/campings.jpg' />
-<img align="center" width="400px" src='./PF-Images/detail.jpg' />
+<img align="center" width="400px" src='./PF-images/campings.jpg' />
+<img align="center" width="400px" src='./PF-images/detail.jpg' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/map.jpg' />
-<img align="center" width="400px" src='./PF-Images/blog.jpg' />
+<img align="center" width="400px" src='./PF-images/map.jpg' />
+<img align="center" width="400px" src='./PF-images/blog.jpg' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/dashboard.jpg' />
+<img align="center" width="400px" src='./PF-images/dashboard.jpg' alt='dashboard camping' />
 </p>
 
 ---
