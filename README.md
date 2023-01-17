@@ -7,7 +7,7 @@
 
 <p>I’m a person who is passionate about programming, specifically about web development. 
 In my journey, as a student, I have carried out several individual and group projects in which I developed my technical and soft skills. I love working and solving problems in a team, I believe that a different look at the problem is always helpful.</p>
-<p>Regarding my goals as a programmer, I would like to delve deeper in my current knowledge and others, so in through future projects, to know more about their operation and best practices. also, i’m interested in other areas of programming and their variants, so i’m more than willing to learn other languages like PHP, Java, Python, etc.</p>
+<p>Regarding my goals as a programmer, I would like to delve deeper in my current knowledge and others, so in through future projects, to know more about their operation and best practices. Also, i’m interested in other areas of programming and their variants, so i’m more than willing to learn other languages like PHP, Java, Python, etc.</p>
 
 <br>
 
