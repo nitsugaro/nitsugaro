@@ -28,6 +28,8 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-%2307ff.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2302DDDD90.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-violet?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/nodemailer-blue?style=for-the-badge&logo=nodemailer&logoColor=white)
 
 ## 🧰 WorkShop
 
@@ -54,7 +56,7 @@
 
 ---
 
-## **PokeAP[pokea-api]I**
+## **PokeAP [poke-api]**
 
 ```
 📌 Henry Bootcamp Individual Project
@@ -89,7 +91,7 @@ Database: PostgreSQL
 
 ---
 
-## **Campy** [campy]
+## **Campy [campy]**
 
 ```
 📌 Final group project of Bootcamp Henry.
