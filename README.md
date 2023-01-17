@@ -1,24 +1,54 @@
-
 <h1 align="center">Hey 👋 I'm Agustín Romero</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-<p>I'm a Web Developer who loves working with different technologies, learning new skills and solving different problems as a team.</p>
-<p>Here are all my achievements and the way I did to be a programmer 💻</p>
+## About Me:
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/agust%C3%ADn-romero-33919b24b/" target="blank" rel="norefferer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my-linkedin" height="30" width="40" />
-</a>
-</p>
+<p>I am a person passionate about programming, specifically about Web Development. In my journey I have carried out several individual and group projects in which I developed my technical and soft skills. I love working and solving problems in a team, I believe that a different look at the problem is always helpful.</p>
+<p>Regarding my goals as a programmer, I think to delve deeper in my current knowledge and others, through future projects to know more about their operation and best practices. I am also interested in other areas of programming and its variants, so I am more than willing to learn other languages like PHP, Java, Python, etc...</p>
 
-## 💻 Tech Stack:
+<br>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MaterialUI](https://img.shields.io/badge/materialui-%234ea94b.svg?style=for-the-badge&logo=materialui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Tech Stack Frontend:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitsuga159&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p>
+![HTML](https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-brown.svg?style=for-the-badge&logo=angular)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/materialui-%234ea94b.svg?style=for-the-badge&logo=materialui&logoColor=white)
+
+## 💻 Tech Stack Backend:
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/socketio-%23404d9F.svg?style=for-the-badge&logo=socket.io&logoColor=%2361DAFF)
+![Sequelize](https://img.shields.io/badge/sequelize-%2307ff.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2302DDDD90.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🧰 WorkShop
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-red.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+<br>
+
+### **My GitHub Stats:**
+
+<p style="margin-top: 10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitsuga159&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuga159&layout=compact)](#)
+
+<br>
 
 ## This is my work 🗂
 
@@ -30,7 +60,7 @@
 📌 Henry Bootcamp Individual Project
 I worked as a full stack developer integrating a web application with the name 'PokeAPI'.
 With its three essential elements: frontend, backend and database.
-There you will be able to see pokemons from the animated series 'Pokemon', 
+There you will be able to see pokemons from the animated series 'Pokemon',
 see details of each one, and create your own pokemons.
 
 Tech Utils:
