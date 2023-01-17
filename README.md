@@ -54,7 +54,7 @@
 
 ---
 
-## **PokeAPI** [pokea-api]
+## **PokeAP[pokea-api]I**
 
 ```
 📌 Henry Bootcamp Individual Project
