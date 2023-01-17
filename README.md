@@ -133,7 +133,7 @@ Additional Libraries:
 <img align="center" width="400px" src='./PF-images/map.jpg' alt='map campy' />
 <img align="center" width="400px" src='./PF-images/blog.jpg' alt='blog campy' />
 </p>
-<p align="center">
+<p id="hola" align="center">
 <img align="center" width="400px" src='./PF-images/dashboard.jpg' alt='dashboard campy' />
 </p>
 <br>
