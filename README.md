@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Agustín Romero</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-## About Me:
+## About Me
 
 <p>I am a person passionate about programming, specifically about Web Development. In my journey I have carried out several individual and group projects in which I developed my technical and soft skills. I love working and solving problems in a team, I believe that a different look at the problem is always helpful.</p>
 <p>Regarding my goals as a programmer, I think to delve deeper in my current knowledge and others, through future projects to know more about their operation and best practices. I am also interested in other areas of programming and its variants, so I am more than willing to learn other languages like PHP, Java, Python, etc...</p>
