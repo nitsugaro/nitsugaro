@@ -54,8 +54,7 @@
 
 ---
 
-My header
-## **PokeAPI**
+## **PokeAPI** [pokea-api]
 
 ```
 📌 Henry Bootcamp Individual Project
@@ -90,7 +89,7 @@ Database: PostgreSQL
 
 ---
 
-## **Campy**
+## **Campy** [campy]
 
 ```
 📌 Final group project of Bootcamp Henry.
