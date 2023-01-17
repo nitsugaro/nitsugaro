@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋 I'm Agustín Romero</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-## About Me:
+## About Me
 
 <p>I am a person passionate about programming, specifically about Web Development. In my journey I have carried out several individual and group projects in which I developed my technical and soft skills. I love working and solving problems in a team, I believe that a different look at the problem is always helpful.</p>
 <p>Regarding my goals as a programmer, I think to delve deeper in my current knowledge and others, through future projects to know more about their operation and best practices. I am also interested in other areas of programming and its variants, so I am more than willing to learn other languages like PHP, Java, Python, etc...</p>
@@ -30,6 +30,8 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-%2307ff.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2302DDDD90.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-violet?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/nodemailer-blue?style=for-the-badge&logo=nodemailer&logoColor=white)
 
 ## 🧰 WorkShop
 
@@ -56,7 +58,7 @@
 
 ---
 
-## **PokeAPI**
+<h2 id="poke-api"><strong>PokeAPI</strong></h2>
 
 ```
 📌 Henry Bootcamp Individual Project
@@ -91,7 +93,7 @@ Database: PostgreSQL
 
 ---
 
-## **Campy**
+<h2 id="campy"><strong>Campy</strong></h2>
 
 ```
 📌 Final group project of Bootcamp Henry.
