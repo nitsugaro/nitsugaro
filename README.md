@@ -54,6 +54,7 @@
 
 ---
 
+My header
 ## **PokeAPI**
 
 ```
@@ -133,7 +134,7 @@ Additional Libraries:
 <img align="center" width="400px" src='./PF-images/map.jpg' alt='map campy' />
 <img align="center" width="400px" src='./PF-images/blog.jpg' alt='blog campy' />
 </p>
-<p id="hola" align="center">
+<p align="center">
 <img align="center" width="400px" src='./PF-images/dashboard.jpg' alt='dashboard campy' />
 </p>
 <br>
