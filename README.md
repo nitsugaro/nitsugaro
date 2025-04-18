@@ -51,7 +51,7 @@ In my journey, as a student, I have carried out several individual and group pro
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nistugaro&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitsugaro&layout=compact)](#)
 
 <br>
 
@@ -90,7 +90,7 @@ Database: PostgreSQL
 
 [**See Deploy**](https://pokeapi-beryl.vercel.app/)
 
-[**See Repository**](https://github.com/Nitsuga159/PI-Pokemon)
+[**See Repository**](https://github.com/nitsugaro/PI-Pokemon)
 
 ---
 
