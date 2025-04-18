@@ -47,11 +47,11 @@ In my journey, as a student, I have carried out several individual and group pro
 
 ### **My GitHub Stats:**
 
-<p style="margin-top: 10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitsuga159&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p>
+<p style="margin-top: 10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitsugaro&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuga159&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nistugaro&layout=compact)](#)
 
 <br>
 
